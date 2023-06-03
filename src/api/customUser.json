@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Biloliddin",
+    "age": 21,
+    "email": "bilolsterling@gmail.com",
+    "phone": "+992(91)107076776",
+    "photo": "../../public/logo512.png"
+  },
+  {
+    "name": "Mansur",
+    "age": 19,
+    "email": "mansur@gmail.com",
+    "phone": "+992(91)5980598",
+    "photo": "../../public/logo192.png"
+  },
+  {
+    "name": "Alijon",
+    "age": 20,
+    "email": "alijon@gmail.com",
+    "phone": "+992(91)5156598",
+    "photo": "../../public/logo512.png"
+  },
+  {
+    "name": "Nigora",
+    "age": 19,
+    "email": "nigora@gmail.com",
+    "phone": "+992(91)1111111",
+    "photo": "../../public/logo512.png"
+  },
+  {
+    "name": "Oybek",
+    "age": 20,
+    "email": "oybek@gmail.com",
+    "phone": "+992(91)236589",
+    "photo": "../../public/logo512.png"
+  },
+  {
+    "name": "Umar",
+    "age": 18,
+    "email": "umar95g@gmail.com",
+    "phone": "+992(91)789845",
+    "photo": "../../public/logo512.png"
+  }
+]
